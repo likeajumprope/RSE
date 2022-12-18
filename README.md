@@ -3,17 +3,17 @@ Road map and resources for Research Software Engineering in Academia. More to co
 
 ## The basics
 
-### Learn how to code
-### Version control
-### moularize your code
-### Tests
-### Write packages
+- Learn how to code
+- Version control
+- modularize your code
+- Tests
+- Write packages
 
 ## Scale your code
 
 ### Does your code scale?
 - more data
-- more users
+- more users/ other people
 - is your code "update proof"?
 - the bus factor of your project
 
@@ -21,16 +21,18 @@ Road map and resources for Research Software Engineering in Academia. More to co
 
 ## Introduce software enginnering prinicples in your lab
 
-### Code reveiw
-### Leaning from failure
-### Collaboration
+- Code reveiw
+- Leaning from failure
+- Collaboration
 
-## Get recognition
+## Get recognition for your work
+
+## Get funding for your work: Grants in the field of RSE
 
 ## Principles from Industry (an how you can use them in your project)
 
-### Scrum
-### Kanba Boards
+- Scrum
+- Kanban Boards
 
 ## A fully reproducible paper
 
